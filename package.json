@@ -1,0 +1,12 @@
+{
+  "name": "aegis-operator-public-snapshot",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Curated, runnable source snapshot from Aegis Operator",
+  "scripts": {
+    "test": "node --test tests/*.test.js"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
